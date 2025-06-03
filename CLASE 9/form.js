@@ -1,6 +1,6 @@
 const form = document.getElementById("suscription-form");
 const greeting = document.getElementById("form-greeting");
-const fields = {
+const fields = { 
   fullName: false, email: false, password: false, confirmPassword: false,
   age: false, phone: false, address: false, city: false, postalCode: false, dni: false
 };
