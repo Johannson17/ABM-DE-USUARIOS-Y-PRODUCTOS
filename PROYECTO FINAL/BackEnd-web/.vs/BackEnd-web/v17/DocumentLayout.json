@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\backend-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\backend-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\repositories\\permisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\repositories\\permisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\controllers\\permisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\controllers\\permisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\services\\permisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\services\\permisoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\repositories\\ipermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\repositories\\ipermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\repositories\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\repositories\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\configurations\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\configurations\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\models\\usuariopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\models\\usuariopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\models\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\models\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\models\\rolpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\models\\rolpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\configurations\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\configurations\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\models\\usuariorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\models\\usuariorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|c:\\users\\c256900\\source\\repos\\backend-web\\backend-api\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E3DA-C6E1-433A-B2EA-1C1DE541D448}|Backend-api\\Backend-api.csproj|solutionrelative:backend-api\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Backend-api\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:07:54.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermisoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\PermisoRepository.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Repositories\\PermisoRepository.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\PermisoRepository.cs",
+              "RelativeToolTip": "Backend-api\\Repositories\\PermisoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T23:20:24.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Backend-api\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:08:38.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Backend-api.csproj",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Backend-api.csproj",
+              "RelativeDocumentMoniker": "Backend-api\\Backend-api.csproj",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Backend-api.csproj",
+              "RelativeToolTip": "Backend-api\\Backend-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T22:59:44.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Backend-api\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:09:23.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PermisosController.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Controllers\\PermisosController.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Controllers\\PermisosController.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Controllers\\PermisosController.cs",
+              "RelativeToolTip": "Backend-api\\Controllers\\PermisosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T23:17:07.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Backend-api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAswGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:09:10.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\Usuario.cs",
+              "RelativeToolTip": "Backend-api\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:01:55.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Backend-api\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:07:38.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Program.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Program.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Program.cs",
+              "RelativeToolTip": "Backend-api\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:58:21.062Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PermisoService.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Services\\PermisoService.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Services\\PermisoService.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Services\\PermisoService.cs",
+              "RelativeToolTip": "Backend-api\\Services\\PermisoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T23:21:02.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArticuloService.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Services\\ArticuloService.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Services\\ArticuloService.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Services\\ArticuloService.cs",
+              "RelativeToolTip": "Backend-api\\Services\\ArticuloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:08:54.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPermisoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\IPermisoRepository.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Repositories\\IPermisoRepository.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\IPermisoRepository.cs",
+              "RelativeToolTip": "Backend-api\\Repositories\\IPermisoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T23:20:07.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Repositories\\IArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\IArticuloRepository.cs",
+              "RelativeToolTip": "Backend-api\\Repositories\\IArticuloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:08:07.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Repositories\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Repositories\\ArticuloRepository.cs",
+              "RelativeToolTip": "Backend-api\\Repositories\\ArticuloRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:08:22.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "Backend-api\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:10:28.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Configurations\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Configurations\\JwtConfig.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Configurations\\JwtConfig.cs",
+              "RelativeToolTip": "Backend-api\\Configurations\\JwtConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:11:22.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Backend-api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:07:16.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioPermiso.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\UsuarioPermiso.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Models\\UsuarioPermiso.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\UsuarioPermiso.cs",
+              "RelativeToolTip": "Backend-api\\Models\\UsuarioPermiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T23:13:43.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\Articulo.cs",
+              "RelativeToolTip": "Backend-api\\Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:04:36.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\Permiso.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Models\\Permiso.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\Permiso.cs",
+              "RelativeToolTip": "Backend-api\\Models\\Permiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:03:48.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "Backend-api\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:10:59.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Helpers\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "Backend-api\\Helpers\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:10:44.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\appsettings.json",
+              "RelativeToolTip": "Backend-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T22:59:36.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Configurations\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Configurations\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Configurations\\SwaggerConfig.cs",
+              "RelativeToolTip": "Backend-api\\Configurations\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:12:07.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RolPermiso.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\RolPermiso.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Models\\RolPermiso.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\RolPermiso.cs",
+              "RelativeToolTip": "Backend-api\\Models\\RolPermiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:04:22.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Configurations\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Configurations\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Configurations\\AutoMapperConfig.cs",
+              "RelativeToolTip": "Backend-api\\Configurations\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:12:22.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsuarioRol.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\UsuarioRol.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Models\\UsuarioRol.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\UsuarioRol.cs",
+              "RelativeToolTip": "Backend-api\\Models\\UsuarioRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:04:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "Backend-api\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\c256900\\source\\repos\\BackEnd-web\\Backend-api\\Models\\Rol.cs",
+              "RelativeToolTip": "Backend-api\\Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:03:28.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
