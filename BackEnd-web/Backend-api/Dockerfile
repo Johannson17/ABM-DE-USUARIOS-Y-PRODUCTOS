@@ -1,21 +1,22 @@
-# Etapa 1: build con el SDK de .NET 8
+# Etapa 1: build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copia el csproj y restaura dependencias de NuGet (incluido EF Core)
-COPY *.csproj ./
+# Copia SOLO el .csproj y restaura dependencias
+COPY Backend-api.csproj ./
 RUN dotnet restore
 
-# Copia el resto del código y publica en modo Release
+# Copia el resto del código fuente y publica
 COPY . ./
-RUN dotnet publish -c Release -o /app/publish
+RUN dotnet publish -c Release -o /app --no-restore
 
-# Etapa 2: runtime con imagen liviana de ASP.NET 8
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+# Etapa 2: runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
+COPY --from=build /app ./
 
-# Copia el resultado del build
-COPY --from=build /app/publish .
+# Expone el puerto 80 (Render y la mayoría de los hostings usan este por defecto)
+EXPOSE 80
+ENV ASPNETCORE_URLS=http://+:80
 
-# Cambiá "Backend-api.dll" por el nombre real de tu proyecto, si es distinto
 ENTRYPOINT ["dotnet", "Backend-api.dll"]

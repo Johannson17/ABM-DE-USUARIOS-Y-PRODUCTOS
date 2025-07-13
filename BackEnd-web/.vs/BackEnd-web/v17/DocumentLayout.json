@@ -144,7 +144,7 @@
               "RelativeDocumentMoniker": "Backend-api\\Dockerfile",
               "ToolTip": "C:\\Users\\c256900\\Desktop\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Dockerfile",
               "RelativeToolTip": "Backend-api\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-13T04:37:35.345Z",
               "EditorCaption": ""
@@ -267,12 +267,7 @@
               "RelativeToolTip": "Backend-api\\Program.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAqwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T22:58:21.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-06-09T22:58:21.062Z"
             },
             {
               "$type": "Document",
@@ -501,6 +496,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T23:03:28.006Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
