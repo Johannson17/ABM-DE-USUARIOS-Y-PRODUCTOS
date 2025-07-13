@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\c256900\\Desktop\\DESARROLLO Y ARQUITECTURAS WEB\\DESARROLLO-Y-ARQUITECTURAS-WEB\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj": {}
+    "C:\\Users\\c256900\\Desktop\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\c256900\\Desktop\\DESARROLLO Y ARQUITECTURAS WEB\\DESARROLLO-Y-ARQUITECTURAS-WEB\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj": {
+    "C:\\Users\\c256900\\Desktop\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\c256900\\Desktop\\DESARROLLO Y ARQUITECTURAS WEB\\DESARROLLO-Y-ARQUITECTURAS-WEB\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj",
+        "projectUniqueName": "C:\\Users\\c256900\\Desktop\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj",
         "projectName": "Backend-api",
-        "projectPath": "C:\\Users\\c256900\\Desktop\\DESARROLLO Y ARQUITECTURAS WEB\\DESARROLLO-Y-ARQUITECTURAS-WEB\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj",
+        "projectPath": "C:\\Users\\c256900\\Desktop\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj",
         "packagesPath": "C:\\Users\\c256900\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\c256900\\Desktop\\DESARROLLO Y ARQUITECTURAS WEB\\DESARROLLO-Y-ARQUITECTURAS-WEB\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\obj\\",
+        "outputPath": "C:\\Users\\c256900\\Desktop\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

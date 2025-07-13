@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "We7GlWVQ4mM=",
+  "dgSpecHash": "QIJR2M1/iXs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\c256900\\Desktop\\DESARROLLO Y ARQUITECTURAS WEB\\DESARROLLO-Y-ARQUITECTURAS-WEB\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj",
+  "projectFilePath": "C:\\Users\\c256900\\Desktop\\PROYECTO FINAL\\BackEnd-web\\Backend-api\\Backend-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c256900\\.nuget\\packages\\automapper\\15.0.0\\automapper.15.0.0.nupkg.sha512",
     "C:\\Users\\c256900\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
